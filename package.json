@@ -41,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "movie-trailer": "^2.1.0"
   }
 }
